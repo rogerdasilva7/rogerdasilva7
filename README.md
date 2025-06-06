@@ -83,6 +83,6 @@ Olá! Me chamo Roger Anacleto da Silva, tenho 22 anos e sou natural do Rio Grand
     align="left" 
     alt="GitHub Stats" 
     height="200px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdasilva7&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdasilva7&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
 />
 
