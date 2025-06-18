@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Roger Anacleto
 
-**`Desenvolvedor Web`**
+**`Desenvolvedor Front-End`**
 
 Olá! Me chamo Roger Anacleto da Silva, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e também faço alguns cursos complementares para aprimorar meu conhecimento. Estou focado em me tornar um desenvolvedor full stack, com o objetivo de evoluir constantemente, sempre buscando aprender mais e aplicar esse conhecimento em projetos reais.
 
