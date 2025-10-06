@@ -2,28 +2,13 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá! Me chamo Roger Anacleto da Silva, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS) e também faço alguns cursos complementares para aprimorar meu conhecimento. Estou focado em me tornar um desenvolvedor full stack, com o objetivo de evoluir constantemente, sempre buscando aprender mais e aplicar esse conhecimento em projetos reais.
+Olá! Me chamo Roger Anacleto, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS). Atuo no desenvolvimento de interfaces frontend, aplicando boas práticas e buscando evoluir continuamente como profissional. Estou sempre explorando novas tecnologias e realizando cursos para ampliar meus conhecimentos e evoluir como profissional.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -47,6 +32,23 @@ Olá! Me chamo Roger Anacleto da Silva, tenho 22 anos e sou natural do Rio Grand
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next"
+    title="Next" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Node"
+    title="Node" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
 <img 
