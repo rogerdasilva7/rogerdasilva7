@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá! Me chamo Roger da Silva, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS). Atuo no desenvolvimento de interfaces frontend, aplicando boas práticas e buscando evoluir continuamente como profissional. Estou sempre explorando novas tecnologias e realizando cursos para ampliar meus conhecimentos e evoluir como profissional.
+Olá! Me chamo Roger da Silva, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas (ADS). Atuo no desenvolvimento de interfaces frontend, aplicando boas práticas de design e usabilidade, para proporcionar experiências intuitivas e acessíveis. Estou sempre explorando novas tecnologias e realizando cursos para ampliar meus conhecimentobuscando evoluir continuamente como profissional.
 
 ---
 
